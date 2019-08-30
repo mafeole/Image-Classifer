@@ -18,5 +18,5 @@ The project included the following steps:
 
 The second part of the project is to create a command line application to predict images based on a trained model. The original model was trained on dog images, again using transfer learning, and then tasked with predicting if an inputted image was a dog and if it was a dog, what breed. 
 
-
+These templates may be of use to other students to reference while completing the program.
 
