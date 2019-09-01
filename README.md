@@ -1,5 +1,6 @@
 # Image-Classifer
-This image classifier was a part of the AI with Programming Nanodegree for Udacity (2019). 
+This image classifier was a part of the AI with Programming Nanodegree for [Udacity (2019)](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089). The goals for this program were to help build a foundation in programming tools such as Python, Numpy, Pytorch and learn how to build neural networks from scratch. 
+
 
 The project is split into two independent parts with the following objectives;
 - Learn about training a neural network
